@@ -41,6 +41,10 @@ public class Thermostat{
         return temperature;
     }
 
+    public String getLocation(){
+        return location;
+    }
+
     public static int getActiveCount(){
         return activeCount;
     }
