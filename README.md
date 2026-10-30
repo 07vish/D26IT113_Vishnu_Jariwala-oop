@@ -11,7 +11,7 @@ This repository contains all Java practicals and the MiniBank micro-project for 
 ---
 
 ## Folder Structure
-Each practical is organized in its own folder from `practical-1` to `practical-11`:
+Each practical is organized in its own folder from `practical-1` to `practical-14`:
 
 ```
 practical-N/
@@ -40,6 +40,9 @@ practical-N/
 | **Practical 9** | Basic Multithreading and Synchronization |
 | **Practical 10** | Thread pools and Inter-thread communication (`wait`, `notify`) |
 | **Practical 11** | File handling (NIO) and Object Serialization |
+| **Practical 12** | Java Collections Framework (`Map`, `Set`, `List`), `Comparable`, `Comparator`, and `ConcurrentHashMap` |
+| **Practical 13** | Java Generics, Bounded Type Parameters (`<N extends Number>`), and Reflection-based DAO Repository |
+| **Practical 14** | Layered Architecture, Automated Unit Testing with `@Test`, and Capstone MiniBank Application |
 
 ---
 
@@ -54,3 +57,9 @@ practical-N/
    ```bash
    java FileName
    ```
+
+### Running the Capstone MiniBank JAR
+To launch the packaged capstone banking platform directly:
+```bash
+java -jar practical-14/micro-project/MiniBank.jar
+```
