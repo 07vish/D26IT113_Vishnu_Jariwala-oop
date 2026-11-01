@@ -1,0 +1,16 @@
+# Compiled Bytecode
+*.class
+
+# Multimedia generated files (>100MB exceeds standard GitHub limits)
+*.mp4
+*.avi
+*.mov
+
+# Data and logs generated during runtime
+minibank_data/
+logs/
+*.dat
+
+# OS / Temporary files
+.DS_Store
+Thumbs.db
