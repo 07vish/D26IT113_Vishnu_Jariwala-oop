@@ -19,9 +19,16 @@ practical-N/
 ├── task-2/                      # Practice Task 2
 ├── task-3/                      # Practice Task 3
 ├── micro-project/               # MiniBank project milestone
-├── Practical_NN_Tasks.docx        # Submission document for tasks
+├── Practical_NN.docx            # Unified submission document (Tasks + MicroProject combined)
+├── Practical_NN_Tasks.docx      # Submission document for tasks
 └── Practical_NN_MicroProject.docx # Submission document for micro-project
 ```
+
+### Master Submission Journals
+- **`Combined_Practicals.docx`**: Unified master laboratory journal containing all 14 practicals with Regular Tasks and MiniBank Micro-Project combined together according to practical number, featuring the official University Cover Page and Index Table with submission dates.
+- **`Combined_Regular_Tasks.docx`**: Combined laboratory journal for all regular practice tasks (1 to 14).
+- **`Combined_MiniBank_MicroProjects.docx`**: Combined portfolio journal for all MiniBank milestones (1 to 14).
+
 
 ---
 
